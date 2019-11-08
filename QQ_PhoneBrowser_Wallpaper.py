@@ -47,7 +47,7 @@ for i in range(startID,endID):
         # 保存路径
         time_path = time.strftime('%Y_%m_%d',time.localtime(time.time()))
         root = "./" + time_path + "/"
-        path = root + str(i) + '.png'
+        path = root + str(num) + '.png'
 
         # 创建时间目录
         if not os.path.exists(root):
