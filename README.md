@@ -24,11 +24,11 @@
 腾讯特辑接口：https://today.html5.qq.com/share?idList=2516073
 ![Website](https://img.shields.io/website?url=https://today.html5.qq.com/share?idList=2516073)
 
-往日特辑接口：https://api.aynu.top/QQ_PhoneBrowser_Wallpaper/Previous_img/1.png
-![Website](https://img.shields.io/website?url=https://api.aynu.top/QQ_PhoneBrowser_Wallpaper/Previous_img/1.png)
+往日特辑接口：https://api.aynu.top/Phone_Wallpaper/Previous_img/1.png
+![Website](https://img.shields.io/website?url=https://api.aynu.top/Phone_Wallpaper/Previous_img/1.png)
 
-每日特辑接口：http://api.aynu.top/QQ_PhoneBrowser_Wallpaper/2019_11_06/2522545.png
-![Website](https://img.shields.io/website?url=http://api.aynu.top/QQ_PhoneBrowser_Wallpaper/2019_11_06/2522545.png)
+每日特辑接口：http://api.aynu.top/QQ_PhoneBrowser_Wallpaper/2019_11_08/1.png
+![Website](https://img.shields.io/website?url=http://api.aynu.top/QQ_PhoneBrowser_Wallpaper/2019_11_08/1.png)
 
 2019 年 11 月 06 日之前的图片存放于 **往日特辑** 接口服务器中，共计 6168 张，并且按照自然数字从 1 开始排序，至 6168
 
