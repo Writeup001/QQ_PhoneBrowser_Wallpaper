@@ -5,10 +5,11 @@
 # 小于这个 ID 的全部是 202 错误，即不存在
 # 腾讯一般是下午4点多左右更新图片，这时候也可以进行爬取，但是个人不建议
 
+import os
+import time
 import requests
 from lxml import etree
-import time
-import os
+
 
 url = "https://today.html5.qq.com/share?idList=%s"
 headers={
